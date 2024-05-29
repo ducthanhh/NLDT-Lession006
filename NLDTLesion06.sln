@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLDTLesion06", "NLDTLesion06\NLDTLesion06.csproj", "{9916C339-B589-4D45-ADB8-487DF9CEE8FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9916C339-B589-4D45-ADB8-487DF9CEE8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9916C339-B589-4D45-ADB8-487DF9CEE8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9916C339-B589-4D45-ADB8-487DF9CEE8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9916C339-B589-4D45-ADB8-487DF9CEE8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE3D843-3758-459C-AAA4-0C82A8A2B34F}
+	EndGlobalSection
+EndGlobal

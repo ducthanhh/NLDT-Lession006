@@ -1,0 +1,51 @@
+﻿@model IEnumerable<NLDTLesion06.Models.NLDTSong>
+
+@{
+    ViewBag.Title = "NLDT: danh sach bai hat";
+}
+
+<h2>NLDT: danh sach bai hat</h2>
+
+<p>
+    @Html.ActionLink("Create New", "NLDTCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTArtist)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTYearRelease)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTArtist)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTYearRelease)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

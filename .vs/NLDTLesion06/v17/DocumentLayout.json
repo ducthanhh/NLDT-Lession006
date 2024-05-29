@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lesssion01\\NLDTLesion06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|d:\\lesssion01\\nldtlesion06\\nldtlesion06\\views\\nldtsong\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|solutionrelative:nldtlesion06\\views\\nldtsong\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|d:\\lesssion01\\nldtlesion06\\nldtlesion06\\views\\nldtsong\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|solutionrelative:nldtlesion06\\views\\nldtsong\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|d:\\lesssion01\\nldtlesion06\\nldtlesion06\\controllers\\nldtsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|solutionrelative:nldtlesion06\\controllers\\nldtsongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|d:\\lesssion01\\nldtlesion06\\nldtlesion06\\models\\nldtsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|solutionrelative:nldtlesion06\\models\\nldtsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|d:\\lesssion01\\nldtlesion06\\nldtlesion06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9916C339-B589-4D45-ADB8-487DF9CEE8FF}|NLDTLesion06\\NLDTLesion06.csproj|solutionrelative:nldtlesion06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NLDTCreate.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Views\\NLDTSong\\NLDTCreate.cshtml",
+              "RelativeDocumentMoniker": "NLDTLesion06\\Views\\NLDTSong\\NLDTCreate.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Views\\NLDTSong\\NLDTCreate.cshtml",
+              "RelativeToolTip": "NLDTLesion06\\Views\\NLDTSong\\NLDTCreate.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T09:47:13.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NLDTIndex.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Views\\NLDTSong\\NLDTIndex.cshtml",
+              "RelativeDocumentMoniker": "NLDTLesion06\\Views\\NLDTSong\\NLDTIndex.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Views\\NLDTSong\\NLDTIndex.cshtml",
+              "RelativeToolTip": "NLDTLesion06\\Views\\NLDTSong\\NLDTIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T09:31:13.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NLDTSongController.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Controllers\\NLDTSongController.cs",
+              "RelativeDocumentMoniker": "NLDTLesion06\\Controllers\\NLDTSongController.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Controllers\\NLDTSongController.cs",
+              "RelativeToolTip": "NLDTLesion06\\Controllers\\NLDTSongController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:19:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NLDTSong.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Models\\NLDTSong.cs",
+              "RelativeDocumentMoniker": "NLDTLesion06\\Models\\NLDTSong.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Models\\NLDTSong.cs",
+              "RelativeToolTip": "NLDTLesion06\\Models\\NLDTSong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:10:54.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NLDTLesion06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTLesion06\\NLDTLesion06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NLDTLesion06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T09:08:06.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
